@@ -1,1 +1,0 @@
-oprogramowania (z Perla na PHP).

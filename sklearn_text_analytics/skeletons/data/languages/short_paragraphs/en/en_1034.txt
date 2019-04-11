@@ -1,1 +1,0 @@
-Wikipedia currently runs on dedicated clusters

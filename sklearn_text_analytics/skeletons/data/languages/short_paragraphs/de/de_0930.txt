@@ -1,1 +1,0 @@
-Servern mit Replikation im Master-Slave-Betrieb.

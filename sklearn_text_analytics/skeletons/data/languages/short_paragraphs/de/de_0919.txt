@@ -1,1 +1,0 @@
-Varnish-Caches, die nicht angemeldete Besucher,

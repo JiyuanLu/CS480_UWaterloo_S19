@@ -1,1 +1,0 @@
-Manske geschriebene, MySQL-basierte PHP-Applikation (Phase

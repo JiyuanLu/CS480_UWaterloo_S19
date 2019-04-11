@@ -1,1 +1,0 @@
-do serwera Apache o zapytanie

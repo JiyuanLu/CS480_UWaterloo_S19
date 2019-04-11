@@ -1,1 +1,0 @@
-del total de usuarios registrados
