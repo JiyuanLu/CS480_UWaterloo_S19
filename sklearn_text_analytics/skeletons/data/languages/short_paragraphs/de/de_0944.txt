@@ -1,0 +1,1 @@
+Zugriffe pro Sekunde, je nach Tageszeit.

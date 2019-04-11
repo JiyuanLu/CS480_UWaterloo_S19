@@ -1,0 +1,1 @@
+Several MediaWiki extensions are installed[228] to extend the functionality of the MediaWiki software.

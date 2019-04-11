@@ -1,0 +1,1 @@
+.ts-oq .NavHead,.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .NavContent{padding-left:1.052632em;padding-right:1.052632em}

@@ -1,0 +1,1 @@
+Wikipédia .mw-parser-output .prononciation>a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png")center left no-repeat;padding-left:15px;font-size:smaller}Écouter est

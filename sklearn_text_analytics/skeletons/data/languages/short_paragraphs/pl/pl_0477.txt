@@ -1,0 +1,1 @@
+serwer bazy MySQL, kilka serwerów

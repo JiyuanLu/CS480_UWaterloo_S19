@@ -1,0 +1,1 @@
+jest odnotowana, wandalizmy mogą być wykryte

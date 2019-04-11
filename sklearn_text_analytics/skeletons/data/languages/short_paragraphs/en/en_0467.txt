@@ -1,0 +1,1 @@
+prevent articles from being changed

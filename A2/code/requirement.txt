@@ -1,0 +1,4 @@
+packages used:
+	numpy
+	matplotlib
+	sklearn
